@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'haderech-ember-client',
+    modulePrefix: 'generic-ember-client',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',

@@ -1,7 +1,7 @@
 {
-  "name": "haderech-ember-client",
+  "name": "generic-ember-client",
   "version": "0.0.0",
-  "description": "Small description for haderech-ember-client goes here",
+  "description": "Small description for generic-ember-client goes here",
   "license": "MIT",
   "author": "",
   "directories": {
